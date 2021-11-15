@@ -1,0 +1,39 @@
+#dashboard
+{
+    background-color: blue;
+    color: aliceblue;
+    padding:30px 50px;
+    display: flex;
+    justify-content:space-between ;
+}
+
+#dashboard ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#dashboard li{
+    list-style:none ;
+}
+
+#dashboard li a{
+    padding:6px;
+    font-weight: bold;
+    text-decoration: none; 
+}
+
+#dashboard li a:hover{
+    text-decoration: none; 
+    color: aliceblue;
+}
+
+.heading{
+    padding:10px 30px;
+    color:rgb(0, 26, 255) !important;
+}
+
+ul li
+{
+    width:15%;
+}
